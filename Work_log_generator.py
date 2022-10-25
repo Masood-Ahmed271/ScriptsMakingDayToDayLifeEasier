@@ -3,7 +3,7 @@ import os
 import re
 
 # Global Variables
-PER_HOUR_RATE = 70
+PER_HOUR_RATE = 70     # random number
 PATH_TO_FILE = "./Work_Log_File.txt"
 
 
